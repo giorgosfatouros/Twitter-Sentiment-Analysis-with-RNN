@@ -1,4 +1,4 @@
-nltk==3.4.1
+nltk==3.4.5
 numpy==1.15.4
 python==3.6.8
 pandas==0.24.1
